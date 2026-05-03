@@ -10,10 +10,10 @@ Ao longo da minha trajetória acadêmica e técnica, venho buscando consolidar c
 
 ## Formação e Certificações
 
-- **AWS Certified Cloud Practitioner**
-- **Wireless Pentester (SYWP)**  
-- *Em preparação:* **SYCP**
-
+- **AWS Certified Cloud Practitioner** https://www.credly.com/badges/2e53360c-ac6e-486f-99c4-2167d0da0af1/public_url
+- **Wireless Pentester (SYWP)** https://solyd.com.br/ead/pentest/certificate/QCMosEjXGE/
+- **Solyd Certified Pentester (SYCP)** https://solyd.com.br/ead/pentest/certificate/k9VZmy1vZc/
+- *Em preparação:* **LPI - Essencial**
 ---
 
 ## Objetivo do Repositório
