@@ -16,9 +16,9 @@ Ao longo da minha trajetória acadêmica e técnica, venho buscando consolidar c
 - *Em preparação:* **LPI - Essencial**
 ---
 
-## Objetivo do Repositório
+## Objetivo dos Repositórios
 
-Este espaço é destinado à documentação de estudos, projetos técnicos e anotações conceituais, com ênfase em **cybersecurity, computação em nuvem e automação**.
+Este espaço é destinado à documentação de estudos, projetos técnicos e anotações conceituais.
 
 O objetivo principal é a consolidação do conhecimento adquirido e a contribuição com a comunidade técnica por meio do compartilhamento de conteúdo educacional, respeitando princípios éticos e legais.
 
